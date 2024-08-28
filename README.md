@@ -3,7 +3,7 @@
 ```markdown
 # E-commerce Customer Analysis Using Excel
 
-![E-commerce Customer Analysis](/dashboard.png)
+![E-commerce Customer Analysis](./dashboard.png)
 
 ## Project Overview
 
